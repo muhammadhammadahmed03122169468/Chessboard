@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.main div{
+    width: 10%;
+    height: 80px;
+
+ width: calc(100%/8);
+ text-align: center;
+ text-shadow: 3px 1px white;
+ font-size: 60px;
+    
+}
+.main{
+    border: 3px solid black;
+    width: 50%;
+    height: 640px;
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+
+
+
+.a{
+    background:white;
+}
+.b{
+    background:rgb(0, 0, 0);
+}
